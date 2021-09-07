@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "user-1",
+      "password": "123456"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "Title - 1",
+      "description": "Description - 1",
+      "count": 7,
+      "imgName": "111.png"
+    }
+  ]
+}
